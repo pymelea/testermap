@@ -1,0 +1,11 @@
+[project]
+name = "tester-map"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "django==3.2.23",
+    "djangorestframework>=3.15.1",
+    "requests>=2.32.4",
+]
